@@ -1,4 +1,4 @@
 use strict;
 use warnings;
 
-print "12345";
+print "123456\n";
